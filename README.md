@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Rahul Kashyap
 
-<!--
-**Rahulkashyap151/Rahulkashyap151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 AI & ML Engineer | Python Developer | MCA Student
 
-Here are some ideas to get you started:
+Passionate about Artificial Intelligence, Machine Learning, Python Development, and Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+
+- 🎓 MCA Student (AI & ML)
+- 💻 Python Developer
+- 🤖 AI Enthusiast
+- 📊 Data Analytics Learner
+- 🌱 Learning Deep Learning & Generative AI
+
+---
+
+# 🛠️ Skills
+
+Python | Machine Learning | SQL | Data Analytics | GitHub
+
+---
+
+# 📌 Projects
+
+- AI Chatbot
+- Face Detection System
+- Resume Analyzer AI
+- Sales Analytics Dashboard
+
+---
+
+# 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Rahulkashyap151&show_icons=true)
+
+---
+
+⭐ Building real-world AI projects every day.
