@@ -1,7 +1,6 @@
-        # Hi 👋, I'm Rahul Kashyap
-
+  # Hi 👋, I'm Rahul Kashyap
 # 🚀 MCA Final-Year Student | Full-Stack Developer | Aspiring Software Engineer          AI & ML Engineer | Python Developer |  🚀
-        Computer Science & Engineering Minor — IIT Mandi 
+# Computer Science & Engineering Minor — IIT Mandi 
 
 Passionate about Artificial Intelligence, Machine Learning, Python Development, and Data Analytics.
 
