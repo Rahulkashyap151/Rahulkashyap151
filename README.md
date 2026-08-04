@@ -1,41 +1,30 @@
-  # Hi 👋, I'm Rahul Kashyap
-# 🚀 MCA Final-Year Student | Full-Stack Developer | Aspiring Software Engineer        
-# 🚀AI & ML Engineer | Python Developer | 
-# 🚀Computer Science & Engineering 
+# Hi, I'm Rahul Kashyap 👋
 
-Passionate about Artificial Intelligence, Machine Learning, Python Development, and Data Analytics.
+🎓 MCA (AI & ML) Student at Galgotias University  
+🤖 Aspiring AI & Data Science Professional  
+🐍 Currently learning Python, Data Analysis, Machine Learning and Deep Learning
 
----
+## Tech Stack
+- Python
+- SQL
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- scikit-learn
+- Git & GitHub
 
-## 🔥 About Me
+## Current Focus
+- Python programming
+- Data Analysis projects
+- Machine Learning fundamentals
+- Deep Learning basics
+- Building AI projects
 
-- 🎓 MCA Student (AI & ML)
-- 💻 Python Developer
-- 🤖 AI Enthusiast
-- 📊 Data Analytics Learner
-- 🌱 Learning Deep Learning & Generative AI
+## Goals for 2026
+- Complete a strong AI/Data Science portfolio
+- Upload projects regularly on GitHub
+- Prepare for internships and entry-level roles
 
----
-
-# 🛠️ Skills
-
-Python | Machine Learning | SQL | Data Analytics | GitHub
-
----
-
-# 📌 Projects
-
-- AI Chatbot
-- Face Detection System
-- Resume Analyzer AI
-- Sales Analytics Dashboard
-
----
-
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Rahulkashyap151&show_icons=true)
-
----
-
-⭐ Building real-world AI projects every day.
+## Connect with Me
+- GitHub: https://github.com/Rahulkashyap151
